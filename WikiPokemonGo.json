@@ -1,0 +1,128 @@
+{
+    "product": "Wiki Pokemon Go",
+    "version": 1.0,
+    "releaseDate": "2016-08-07T00:00:00.000Z",
+    "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
+    "iOSAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
+    "numberOfVideos": 3,
+    "channelString": "UCTqoYXL5p_aOdsgDWzxRBzQ,UC874WmmCVtIwTG4gQbWHKUQ,UCxNMYToYIBPYV829BJcmUQg,UCMxYQX1zaepCgmiSmwbT39w,UC2l8G7UE41Vaby59Dfg6r3w,UCMYdLBEudBeU-c0AguEaiHA,UCpk3zQzLnN5WwcA8gRcPgiw,UC3S6nIDGJ5OtpC-mbvFA8Ew",
+    "channels": [
+                 "UCyeVfsThIHM_mEZq7YXIQSQ",
+                 "UC7yMooezVAKSTHrL-pG3sWg",
+                 "UCR0It5-1cif1cMKBUtUW8pg",
+                 
+                 "UCh7EqOZt7EvO2osuKbIlpGg",
+                 "UCYyl-r6TvV7CnXxgYAJqCtQ",
+                 "UCmbnlwXAdGYACzvStDjquaA"
+                 
+                 ],
+    "playlists": [
+                  {
+                  "name": "Pokemon Go",
+                  "thumbnailUrl": "888-555-1212",
+                  "playlistIDs": [
+                                  "PL_cWgWi1q-o3WjlrpuAFqQZqQHSqjp1Rz",
+                                  "PLZ53q68oHkKZ3h-xO_SH7nPxpf1kefMUA",
+                                  "PL_VGbflD64WSxj19ylfDPwV0yLw14FtEr",
+                                  "PLMcwuBdgf1TBww0KTm-db0cYyZzyzRxYD",
+                                  "PLBjR5Q3_D2pxwA43MA4h1I7R8T4w6TkFT",
+                                  
+                                  "PLNSEsNXsbHG1HvgnrWlo1Addji0ArokLl",
+                                  "PL6xZDznTIktUKA-Ktv9Bp5uhAgrB-ZXzA",
+                                  "PL9O6nOlKeOleuJAkE8svcxOyiYE1OQ7sh",
+                                  "PLckmueNaOA8tR2tobx_njZRnk_Zk_b0sm",
+                                  
+                                  "PLSRCVBPKRukzysqigJZNMhpOT_OujpFxi",
+                                  "PLBkS3zMP77PH7ktlrDuBfrHZw-Izf3WDy",
+                                  "PLBkS3zMP77PFqCdpdzPo0apLVkJzBcvxK",
+                                  "PLL9ooUIWVxGnzysxgF_Ft24y38xhBD58W"
+                                  
+                                  ]
+                  },
+                  {
+                  "name": "Clash Royale",
+                  "thumbnailUrl": "888-555-1212",
+                  "playlistIDs": [
+                                  "PLckmueNaOA8uQwBWDXGVNHHnTby4Pjzun",
+                                  "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
+                                  "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
+                                  "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
+                                  "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
+                                  
+                                  "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ",
+                                  "PLVtnr346pBuQf5mV8q7siMKk9k7W2KE3y",
+                                  "PLVtnr346pBuS3YTj2FHduG3evZ4jibGf",
+                                  "PLVtnr346pBuTJ0unbWcvBSGwWLLhbVU7z",
+                                  "PLVtnr346pBuTIpuizmL_7km3dDHQcEVf5",
+                                  
+                                  "PLVtnr346pBuStSfTMQ4SdRZOyujnMlP_r",
+                                  "PLL0_pgYXAhiic6kt2O81Ok05hM-l22dYk",
+                                  "PLL0_pgYXAhii7wFIftQW0nOpmukAkAElN",
+                                  "PLckmueNaOA8sAGJsfImNl5iOZ7z-46SCT",
+                                  "PL3xl1Whm1aOFufXNfAL603llu75BTu3m6",
+                                  "PLL0_pgYXAhijMzFZNoif6yZdBSMr0l30F",
+                                  
+                                  "PLzoe-7u0fWF6-NADgkBp83BO3l2Q0uQVr",
+                                  "PLzoe-7u0fWF5bQ0uOzQWKr6qBenur5-Jc",
+                                  "PLzoe-7u0fWF48ikljESwSlapD1apkNAdE",
+                                  "PLBkS3zMP77PGSYoX-OlyxMPPsZC8rfiXa",
+                                  "PLBkS3zMP77PGvLb7xj9JbaJjpYvpmphqf",
+                                  "PLBkS3zMP77PFczeFgusgH8ZDQkKjgzZYA",
+                                  
+                                  "PLzoe-7u0fWF6vmkJmlnx6yoCwdft04eE_",
+                                  "PLzoe-7u0fWF4WEVo4yAW09AVIR2k0hziw",
+                                  "PLTiSALGQMIQ6tBKA7znVx-mSddGkwUOGH",
+                                  "PLz3utPLAut6E0UGA2nCkiOL3sodpv4U8M",
+                                  "PLz3utPLAut6GKZADTdg3zK6lh20D0KB6Z",
+                                  "PLz3utPLAut6HAIeljNAfVYfQ_BL4G4ivS",
+                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
+                                  "PLBkS3zMP77PEVkpksI2W52ofw27Y4JfU-"
+                                  
+                                  ]
+                  },
+                  {
+                  "name": "Boom Beach",
+                  "thumbnailUrl": "877-123-1212",
+                  "playlistIDs": [
+                                  "PL3xl1Whm1aOG5Um9sQBr8t8TaGJwpTlwz",
+                                  "PL3xl1Whm1aOGMB3_ywa8ISzo3kckCaVbt",
+                                  "PL3xl1Whm1aOEoUt8bn8Sn-RsdSteWxO1i",
+                                  "PL3xl1Whm1aOFX-4Bee1JzNPXEkPnvYum8",
+                                  "PL3xl1Whm1aOG6pGuV9aBJkpvGgcmytwux",
+                                  
+                                  "PL3xl1Whm1aOGD1oZtpZ4sDSJbwBZE8GsS",
+                                  "PL3xl1Whm1aOH0OIcSQ1_-vVhKatDcQeaP",
+                                  "PL3xl1Whm1aOHbZVWa9DmEyowyLgLPNv5K",
+                                  "PL3xl1Whm1aOH6dQd2uLOyqCv4TpyxFafl",
+                                  "PL3xl1Whm1aOGf5T4Za24XfL4NNGYCp1l8",
+                                  
+                                  "PL3xl1Whm1aOG4oEK8wtbq3synILnUUMYC",
+                                  "PL3xl1Whm1aOGktRH91Zb4jGDf9IBufzZz",
+                                  "PL3xl1Whm1aOHzOBjs_kpsgRVArFW19sP",
+                                  "PL3xl1Whm1aOEtPfz0aXjvo5SqPQt6XkbD",
+                                  
+                                  "PLBkS3zMP77PFaAlmd610FHTyxdjoaM4mC",
+                                  "PLBkS3zMP77PGBVl_kQMAG-TEDOMR0uYui",
+                                  "PLBkS3zMP77PHUQHrzDeMlzj3qwbMy_3yV",
+                                  "PLBkS3zMP77PGsrJhHYOcvKGNuuYF3BOcw",
+                                  "PLBkS3zMP77PGdk05ZoSu0oO4-K9_voD24",
+                                  "PLBkS3zMP77PFkN9MOJkZQ3MTJIbleeXeS",
+                                  
+                                  "PLTiSALGQMIQ7ctF7O2vTE4SxMKJSEWUGC",
+                                  "PLBkS3zMP77PHy26Tj9JKywDT6KfKYxEKk",
+                                  "PLBkS3zMP77PHfrSm3IZpGpvD7fghtZvPl",
+                                  "PLBkS3zMP77PEI8QeIbfvzB882mM2KgZee",
+                                  "PLBkS3zMP77PFmKfPCITMxUlpcOApIiq3d",
+                                  "PLBkS3zMP77PGHtSPgfAcZ-4ogSbckuNjs",
+                                  
+                                  "PLBkS3zMP77PElebYgd_jt6c-ISfwoPzcs",
+                                  "PLBkS3zMP77PFp_nHx7pbYvkVr7ocg_Y2G",
+                                  "PLBkS3zMP77PGajbofKKKU561cQoS3EE4j",
+                                  "PLBkS3zMP77PFtzoA-Zl6FkhdjdXPVztK1",
+                                  "PLBkS3zMP77PGixC0Vc-sJdP8aFYN2I8zp",
+                                  "PLBkS3zMP77PFnNBth_G5ZePTTaYB9-Cqf"
+                                  
+                                  ]
+                  }
+                  ]
+}
