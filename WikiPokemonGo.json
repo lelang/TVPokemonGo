@@ -5,7 +5,7 @@
     "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
     "iOSAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
     "numberOfVideos": 3,
-    "channelString": "UCTqoYXL5p_aOdsgDWzxRBzQ,UC874WmmCVtIwTG4gQbWHKUQ,UCxNMYToYIBPYV829BJcmUQg,UCMxYQX1zaepCgmiSmwbT39w,UC2l8G7UE41Vaby59Dfg6r3w,UCMYdLBEudBeU-c0AguEaiHA,UCpk3zQzLnN5WwcA8gRcPgiw,UC3S6nIDGJ5OtpC-mbvFA8Ew",
+    "channelString": "UCVVzh7IHE5GMrrdpfE9AXKg,UCFctpiB_Hnlk3ejWfHqSm6Q,UC7yMooezVAKSTHrL-pG3sWg,UCWk8R2zKyoNnqYFuM71mFOA,UCopKoOYjBF1LM8ERYyRjEsg,UChWlqr9gvKgreua15aBVYhQ,UCyeVfsThIHM_mEZq7YXIQSQ,UCke6I9N4KfC968-yRcd5YRg,UCR0It5-1cif1cMKBUtUW8pg,UCS9FEeCe1ZZ-i0Rt3Lw5oZQ,UCh7EqOZt7EvO2osuKbIlpGg,UCmbnlwXAdGYACzvStDjquaA,UCglYq701IltaH0Fk-z3UsSA,UCs3CbOTFQe3h11GDKpYRmpw,UChHKeOrfnXXyGjdW_E8UT9A,UCaWd5_7JhbQBe4dknZhsHJg",
     "channels": [
                  "UCyeVfsThIHM_mEZq7YXIQSQ",
                  "UC7yMooezVAKSTHrL-pG3sWg",
@@ -78,6 +78,10 @@
                   "name": "Anime Lovers",
                   "thumbnailUrl": "877-123-1212",
                   "playlistIDs": [
+                                  "PLzP6oVcnwQ12D5uUS8W9fCTYwn-l4oFpB",
+                                  "PLzP6oVcnwQ1301rYd82FafXGN42quE_y0",
+                                  "PLzP6oVcnwQ127pAQJM49laMcBwQfpfI8U",
+                                  
                                   "PLQOd2BiQXINQFKTjd7F3uMBoc2G_NyV52",
                                   "PLDA4fYCepqBFSd-H4IpDVHRQW5Hbzcyk_",
                                   "PLDA4fYCepqBHX73hhsWT3TpgXUwd4po5_",
@@ -100,21 +104,21 @@
                                   "PLmZTDWJGfRq1wXFOIzvhWuqtaA9j6ZFSa",
                                   
                                   "PLmZTDWJGfRq3x8Y9XKL1voH2B8K3-Eo26",
-                                   
+                                  
                                   "PLmhLks1w-4IPCDO1DofhaGTlNrKhSmUZM",
                                   "PLmhLks1w-4IP0CjIR42bfQV0juF40tWKS",
                                   "PLmhLks1w-4IOGIEAIHkGQDr3bAOWsXRf4",
                                   "PLmhLks1w-4IPBUnT78Gn5Zlh38TVV8Wlq",
                                   "PLmhLks1w-4INHqsT7G6R-HDBfLAHxwJjr",
                                   "PLmhLks1w-4IMZmIAS5OOiB-5LWJmW6utJ",
-
+                                  
                                   "PLmhLks1w-4IOb-bt8lvDxqiuCAE79vEk9",
                                   "PLmhLks1w-4IOvpmkwXQdKAIuRCc0kHnnA",
                                   "PLmhLks1w-4IPuCRqON5Q6daQudoQ1_9aW",
                                   "PLmhLks1w-4IMAYj99IPajaJ8hcicFIls3",
                                   "PLmhLks1w-4IP8HO9lQufDBdrWdKu-hj8y",
                                   "PLmhLks1w-4INxr8-nVIaMHdqFlrLXoPsd"
-
+                                  
                                   
                                   ]
                   }
