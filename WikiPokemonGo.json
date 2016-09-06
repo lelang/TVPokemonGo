@@ -1,5 +1,5 @@
 {
-    "product": "Wiki Pokemon Go",
+    "product": "PokemonGo",
     "version": 1.0,
     "releaseDate": "2016-08-07T00:00:00.000Z",
     "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
@@ -26,7 +26,6 @@
                                   "PL_VGbflD64WSxj19ylfDPwV0yLw14FtEr",
                                   "PLMcwuBdgf1TBww0KTm-db0cYyZzyzRxYD",
                                   "PLBjR5Q3_D2pxwA43MA4h1I7R8T4w6TkFT",
-                                  
                                   "PLNSEsNXsbHG1HvgnrWlo1Addji0ArokLl",
                                   "PL6xZDznTIktUKA-Ktv9Bp5uhAgrB-ZXzA",
                                   "PL9O6nOlKeOleuJAkE8svcxOyiYE1OQ7sh",
@@ -35,92 +34,87 @@
                                   "PLSRCVBPKRukzysqigJZNMhpOT_OujpFxi",
                                   "PLBkS3zMP77PH7ktlrDuBfrHZw-Izf3WDy",
                                   "PLBkS3zMP77PFqCdpdzPo0apLVkJzBcvxK",
-                                  "PLL9ooUIWVxGnzysxgF_Ft24y38xhBD58W"
-                                  
+                                  "PLL9ooUIWVxGnzysxgF_Ft24y38xhBD58W",
+                                  "PLb_-xkDtfVvF-V_eKy0zE4Cxo0UEm7G0w",
+                                  "PLHK0OGn9OrOsPRBnmueciuhQZGsEJ2dwR",
+                                  "PLHK0OGn9OrOs_x8Z4RvxBDudGHRUS5xTe",
+                                  "PLz7GQsHwn5srtz-3akihSC9mAFrmQiKc1"
                                   ]
                   },
                   {
-                  "name": "Clash Royale",
+                  "name": "Pokemon World",
                   "thumbnailUrl": "888-555-1212",
                   "playlistIDs": [
-                                  "PLckmueNaOA8uQwBWDXGVNHHnTby4Pjzun",
-                                  "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
-                                  "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
-                                  "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
-                                  "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
+                                  "PLQWzKIaERirwyaLCHXafULQs4In_FS2WA",
+                                  "PLQWzKIaERiryO1HxnAlfzoLN3rH82MT4j",
+                                  "PL7702B978C3732EAF",
+                                  "PL80E812DC78A09954",
+                                  "PLQWzKIaERirzIqbPvb8Jh1dAfpAranBy_",
                                   
-                                  "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ",
-                                  "PLVtnr346pBuQf5mV8q7siMKk9k7W2KE3y",
-                                  "PLVtnr346pBuS3YTj2FHduG3evZ4jibGf",
-                                  "PLVtnr346pBuTJ0unbWcvBSGwWLLhbVU7z",
-                                  "PLVtnr346pBuTIpuizmL_7km3dDHQcEVf5",
+                                  "PLQWzKIaERirxxkkyHChUluIKspYOhIuyh",
+                                  "PLQWzKIaERirwczLwQE6HegZyd4pYV5AwH",
+                                  "PL11E8BC09DB256D73",
+                                  "PLQWzKIaERirwhr2Y-WrV2A_2fK39jzZIh",
+                                  "PL3D04FEDA8129B917",
                                   
-                                  "PLVtnr346pBuStSfTMQ4SdRZOyujnMlP_r",
-                                  "PLL0_pgYXAhiic6kt2O81Ok05hM-l22dYk",
-                                  "PLL0_pgYXAhii7wFIftQW0nOpmukAkAElN",
-                                  "PLckmueNaOA8sAGJsfImNl5iOZ7z-46SCT",
-                                  "PL3xl1Whm1aOFufXNfAL603llu75BTu3m6",
-                                  "PLL0_pgYXAhijMzFZNoif6yZdBSMr0l30F",
+                                  "PLAA96E93C2165BF1D",
+                                  "PLQWzKIaERirz44LNlBqCD0L4iwLoi4sfj",
+                                  "PLQWzKIaERirz6O-nxKqJC9a7xj6eqnzKo",
+                                  "PLA51C5154D20F440C",
+                                  "PLQWzKIaERiryHo1t-vb0B1u5vQz8xwgBw",
+                                  "PL360B9B17B9EBD615",
                                   
-                                  "PLzoe-7u0fWF6-NADgkBp83BO3l2Q0uQVr",
-                                  "PLzoe-7u0fWF5bQ0uOzQWKr6qBenur5-Jc",
-                                  "PLzoe-7u0fWF48ikljESwSlapD1apkNAdE",
-                                  "PLBkS3zMP77PGSYoX-OlyxMPPsZC8rfiXa",
-                                  "PLBkS3zMP77PGvLb7xj9JbaJjpYvpmphqf",
-                                  "PLBkS3zMP77PFczeFgusgH8ZDQkKjgzZYA",
+                                  "PL_VGbflD64WST6Dx_aexgAp8PNAVcfjx-",
+                                  "PL_VGbflD64WRg1GuPcusrZ7gAqJthMrzV",
+                                  "PL_VGbflD64WSektVzNeBvmX5Pfer2LRFM",
+                                  "PL_VGbflD64WTZ8Dx-A1EGLaAME-t1xMvF",
                                   
-                                  "PLzoe-7u0fWF6vmkJmlnx6yoCwdft04eE_",
-                                  "PLzoe-7u0fWF4WEVo4yAW09AVIR2k0hziw",
-                                  "PLTiSALGQMIQ6tBKA7znVx-mSddGkwUOGH",
-                                  "PLz3utPLAut6E0UGA2nCkiOL3sodpv4U8M",
-                                  "PLz3utPLAut6GKZADTdg3zK6lh20D0KB6Z",
-                                  "PLz3utPLAut6HAIeljNAfVYfQ_BL4G4ivS",
-                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
-                                  "PLBkS3zMP77PEVkpksI2W52ofw27Y4JfU-"
+                                  "PL_VGbflD64WTZ8Dx-A1EGLaAME-t1xMvF",
+                                  "PL_VGbflD64WRCpfMBjdWCQlyppOZCSL8Q"
                                   
                                   ]
                   },
                   {
-                  "name": "Boom Beach",
+                  "name": "Anime Lovers",
                   "thumbnailUrl": "877-123-1212",
                   "playlistIDs": [
-                                  "PL3xl1Whm1aOG5Um9sQBr8t8TaGJwpTlwz",
-                                  "PL3xl1Whm1aOGMB3_ywa8ISzo3kckCaVbt",
-                                  "PL3xl1Whm1aOEoUt8bn8Sn-RsdSteWxO1i",
-                                  "PL3xl1Whm1aOFX-4Bee1JzNPXEkPnvYum8",
-                                  "PL3xl1Whm1aOG6pGuV9aBJkpvGgcmytwux",
+                                  "PLQOd2BiQXINQFKTjd7F3uMBoc2G_NyV52",
+                                  "PLDA4fYCepqBFSd-H4IpDVHRQW5Hbzcyk_",
+                                  "PLDA4fYCepqBHX73hhsWT3TpgXUwd4po5_",
+                                  "PLDA4fYCepqBHHcEjPXgxDMJZ3dugmqY0I",
+                                  "PLDA4fYCepqBEH0S-rb5qI9NY7u5tjt1HZ",
                                   
-                                  "PL3xl1Whm1aOGD1oZtpZ4sDSJbwBZE8GsS",
-                                  "PL3xl1Whm1aOH0OIcSQ1_-vVhKatDcQeaP",
-                                  "PL3xl1Whm1aOHbZVWa9DmEyowyLgLPNv5K",
-                                  "PL3xl1Whm1aOH6dQd2uLOyqCv4TpyxFafl",
-                                  "PL3xl1Whm1aOGf5T4Za24XfL4NNGYCp1l8",
+                                  "PLDA4fYCepqBHzjEtOTRQsw9SNPcFNOMQa",
+                                  "PLDA4fYCepqBHOziELOmqilmhJXg5oytrx",
+                                  "PLDA4fYCepqBFupIIVv_GV0m_L-GnoESxn",
+                                  "PLDA4fYCepqBH6Tm7GUIz-9VGkDDZlpIjO",
+                                  "PLDA4fYCepqBFsDiPPHN172ulNuvx4TGuV",
                                   
-                                  "PL3xl1Whm1aOG4oEK8wtbq3synILnUUMYC",
-                                  "PL3xl1Whm1aOGktRH91Zb4jGDf9IBufzZz",
-                                  "PL3xl1Whm1aOHzOBjs_kpsgRVArFW19sP",
-                                  "PL3xl1Whm1aOEtPfz0aXjvo5SqPQt6XkbD",
+                                  "PLDA4fYCepqBFcimfRyyBR0m34M32m7C1P",
+                                  "PLDA4fYCepqBFuQSHllgmjfBtZdquy24eP",
+                                  "PLmZTDWJGfRq2OGCzmQ0XVspD0jAbJcr6I",
+                                  "PLmZTDWJGfRq2R09piGPGZF769APRY_Jik",
+                                  "PLmZTDWJGfRq2lSjDgKmesXkU7d6T0I2qx",
+                                  "PLmZTDWJGfRq0I50nb7VMAvsqeeH6WeQka",
+                                  "PLmZTDWJGfRq09LKpCRm3ktGIP_MJ74eFa",
+                                  "PLmZTDWJGfRq1wXFOIzvhWuqtaA9j6ZFSa",
                                   
-                                  "PLBkS3zMP77PFaAlmd610FHTyxdjoaM4mC",
-                                  "PLBkS3zMP77PGBVl_kQMAG-TEDOMR0uYui",
-                                  "PLBkS3zMP77PHUQHrzDeMlzj3qwbMy_3yV",
-                                  "PLBkS3zMP77PGsrJhHYOcvKGNuuYF3BOcw",
-                                  "PLBkS3zMP77PGdk05ZoSu0oO4-K9_voD24",
-                                  "PLBkS3zMP77PFkN9MOJkZQ3MTJIbleeXeS",
-                                  
-                                  "PLTiSALGQMIQ7ctF7O2vTE4SxMKJSEWUGC",
-                                  "PLBkS3zMP77PHy26Tj9JKywDT6KfKYxEKk",
-                                  "PLBkS3zMP77PHfrSm3IZpGpvD7fghtZvPl",
-                                  "PLBkS3zMP77PEI8QeIbfvzB882mM2KgZee",
-                                  "PLBkS3zMP77PFmKfPCITMxUlpcOApIiq3d",
-                                  "PLBkS3zMP77PGHtSPgfAcZ-4ogSbckuNjs",
-                                  
-                                  "PLBkS3zMP77PElebYgd_jt6c-ISfwoPzcs",
-                                  "PLBkS3zMP77PFp_nHx7pbYvkVr7ocg_Y2G",
-                                  "PLBkS3zMP77PGajbofKKKU561cQoS3EE4j",
-                                  "PLBkS3zMP77PFtzoA-Zl6FkhdjdXPVztK1",
-                                  "PLBkS3zMP77PGixC0Vc-sJdP8aFYN2I8zp",
-                                  "PLBkS3zMP77PFnNBth_G5ZePTTaYB9-Cqf"
+                                  "PLmZTDWJGfRq3x8Y9XKL1voH2B8K3-Eo26",
+                                   
+                                  "PLmhLks1w-4IPCDO1DofhaGTlNrKhSmUZM",
+                                  "PLmhLks1w-4IP0CjIR42bfQV0juF40tWKS",
+                                  "PLmhLks1w-4IOGIEAIHkGQDr3bAOWsXRf4",
+                                  "PLmhLks1w-4IPBUnT78Gn5Zlh38TVV8Wlq",
+                                  "PLmhLks1w-4INHqsT7G6R-HDBfLAHxwJjr",
+                                  "PLmhLks1w-4IMZmIAS5OOiB-5LWJmW6utJ",
+
+                                  "PLmhLks1w-4IOb-bt8lvDxqiuCAE79vEk9",
+                                  "PLmhLks1w-4IOvpmkwXQdKAIuRCc0kHnnA",
+                                  "PLmhLks1w-4IPuCRqON5Q6daQudoQ1_9aW",
+                                  "PLmhLks1w-4IMAYj99IPajaJ8hcicFIls3",
+                                  "PLmhLks1w-4IP8HO9lQufDBdrWdKu-hj8y",
+                                  "PLmhLks1w-4INxr8-nVIaMHdqFlrLXoPsd"
+
                                   
                                   ]
                   }
